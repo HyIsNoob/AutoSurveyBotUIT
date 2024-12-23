@@ -1,3 +1,5 @@
+**Tool sử dụng python để tự động thực hiện khảo sát cho UIT
+
 1. Chạy File setup.bat một lần duy nhất (chạy nhiều cũng được nhma k có tác dung j đâu)
 
 2. Chỉnh file config.txt: (Ghi không dấu cách và không có dấu ngoặc ví dụ: email=2352xxxx)
